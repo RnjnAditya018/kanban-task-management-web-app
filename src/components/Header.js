@@ -56,8 +56,8 @@ export default function Header() {
     <div className="header-container">
       <header>
         <div className="logo-container">
-          <img className="logo" src={logo} alt="logo" />
-          {isBigScreen && <h3 className="logo-text">kanban</h3>}{" "}
+          {/* <img className="logo" src={logo} alt="logo" /> */}
+          {isBigScreen && <h3 className="logo-text">Zidio</h3>}{" "}
         </div>
 
         <div className="header-name-container heading-L">
