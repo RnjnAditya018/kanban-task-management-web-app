@@ -1,6 +1,6 @@
-# Frontend Mentor - Kanban task management web app solution
+# Frontend Mentor - Zidio task management web app solution
 
-This is a solution to the [Kanban task management web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Zidio task management web app challenge on Frontend Mentor]. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -45,11 +45,11 @@ Bonus:
 
 ### Screenshot
 
-![Screenshot](https://user-images.githubusercontent.com/100496179/197352796-412b11a9-569c-49e9-95bd-a79776260cdd.png)
+![Screenshot]
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-app.netlify.app/)
+- Live Site URL: [link](https://zidio-task-management-app.netlify.app/)
 
 ### Built with
 
@@ -69,6 +69,3 @@ Bonus:
 - [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
 ## Author
 
-- Website - [Dorian Urem](https://dodoburner.github.io/Portfolio/)
-- Frontend Mentor - [@dodoburner](https://www.frontendmentor.io/profile/dodoburner)
-- LinkedIn - [Dorian Urem](https://www.linkedin.com/in/dorian-urem/)
